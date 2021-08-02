@@ -1,0 +1,15 @@
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/bin/Debug/net5.0/Singleton-Pattern.deps.json
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/bin/Debug/net5.0/Singleton-Pattern.runtimeconfig.json
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/bin/Debug/net5.0/Singleton-Pattern.runtimeconfig.dev.json
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/bin/Debug/net5.0/Singleton-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/bin/Debug/net5.0/ref/Singleton-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/bin/Debug/net5.0/Singleton-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.csproj.AssemblyReference.cache
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.AssemblyInfoInputs.cache
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.AssemblyInfo.cs
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.csproj.CoreCompileInputs.cache
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/ref/Singleton-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Singleton-Pattern/obj/Debug/net5.0/Singleton-Pattern.genruntimeconfig.cache

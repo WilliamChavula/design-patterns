@@ -1,0 +1,15 @@
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/bin/Debug/net5.0/Strategy-Pattern.deps.json
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/bin/Debug/net5.0/Strategy-Pattern.runtimeconfig.json
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/bin/Debug/net5.0/Strategy-Pattern.runtimeconfig.dev.json
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/bin/Debug/net5.0/Strategy-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/bin/Debug/net5.0/ref/Strategy-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/bin/Debug/net5.0/Strategy-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.csproj.AssemblyReference.cache
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.AssemblyInfoInputs.cache
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.AssemblyInfo.cs
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.csproj.CoreCompileInputs.cache
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/ref/Strategy-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Strategy-Pattern/obj/Debug/net5.0/Strategy-Pattern.genruntimeconfig.cache

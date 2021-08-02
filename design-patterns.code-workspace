@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "Singleton-Pattern"
+        },
+        {
+            "path": "Strategy-Pattern"
+        },
+        {
+            "path": "Observer-Pattern"
+        }
+    ]
+}
