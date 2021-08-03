@@ -8,6 +8,9 @@
         },
         {
             "path": "Observer-Pattern"
+        },
+        {
+            "path": "Decorator-Pattern"
         }
     ]
 }

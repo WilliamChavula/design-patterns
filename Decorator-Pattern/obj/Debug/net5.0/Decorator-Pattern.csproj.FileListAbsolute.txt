@@ -1,0 +1,15 @@
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/bin/Debug/net5.0/Decorator-Pattern.deps.json
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/bin/Debug/net5.0/Decorator-Pattern.runtimeconfig.json
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/bin/Debug/net5.0/Decorator-Pattern.runtimeconfig.dev.json
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/bin/Debug/net5.0/Decorator-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/bin/Debug/net5.0/ref/Decorator-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/bin/Debug/net5.0/Decorator-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.csproj.AssemblyReference.cache
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.AssemblyInfoInputs.cache
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.AssemblyInfo.cs
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.csproj.CoreCompileInputs.cache
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/ref/Decorator-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Decorator-Pattern/obj/Debug/net5.0/Decorator-Pattern.genruntimeconfig.cache
