@@ -11,6 +11,9 @@
         },
         {
             "path": "Decorator-Pattern"
+        },
+        {
+            "path": "Simple-Factory-Pattern"
         }
     ]
 }
