@@ -1,0 +1,15 @@
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/bin/Debug/net5.0/Factory-Method-Pattern.deps.json
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/bin/Debug/net5.0/Factory-Method-Pattern.runtimeconfig.json
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/bin/Debug/net5.0/Factory-Method-Pattern.runtimeconfig.dev.json
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/bin/Debug/net5.0/Factory-Method-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/bin/Debug/net5.0/ref/Factory-Method-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/bin/Debug/net5.0/Factory-Method-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.csproj.AssemblyReference.cache
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.AssemblyInfoInputs.cache
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.AssemblyInfo.cs
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.csproj.CoreCompileInputs.cache
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/ref/Factory-Method-Pattern.dll
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.pdb
+/Users/williamchavula/Projects/design-patters/Factory-Method-Pattern/obj/Debug/net5.0/Factory-Method-Pattern.genruntimeconfig.cache
